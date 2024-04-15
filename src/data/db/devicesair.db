@@ -1,0 +1,72 @@
+[
+    {
+        "uuid": "6a449024-ac74-4b2e-8824-f0a349565346",
+        "serial": 1,
+        "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+        "deviceId": "6d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+        "name": "環控設備-02",
+        "model": "SEN1101TH",
+        "typeId": "mac",
+        "protocol": "modbus",
+        "group": "A",
+        "areaId": "A01",
+        "locationId": "L01",
+        "camera": [
+            "001",
+            "",
+            "",
+            ""
+        ],
+        "signal": [
+            {
+                "pin": "R10",
+                "state": "0>1",
+                "light": "R",
+                "note": "Fault"
+            },
+            {
+                "pin": "R11",
+                "state": "0>1",
+                "light": "G",
+                "note": "Running"
+            }
+        ],
+        "created_time": 1711691464737,
+        "updated_time": 1712044646523
+    },
+    {
+        "uuid": "2a449024-ac74-4b2e-8824-f0a349565346",
+        "serial": 1,
+        "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+        "deviceId": "2d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+        "name": "環控設備-02",
+        "model": "SEN1101TH",
+        "typeId": "mac",
+        "protocol": "modbus",
+        "group": "A",
+        "areaId": "A01",
+        "locationId": "L01",
+        "camera": [
+          "001",
+          "",
+          "",
+          ""
+        ],
+        "signal": [
+          {
+            "pin": "R2",
+            "state": "0>1",
+            "light": "R",
+            "note": "Fault"
+          },
+          {
+            "pin": "R3",
+            "state": "0>1",
+            "light": "G",
+            "note": "Running"
+          }
+        ],
+        "created_time": 1711691464737,
+        "updated_time": 1712044646523
+      }
+]

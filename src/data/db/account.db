@@ -1,0 +1,12 @@
+[
+  {
+    "uuid": "0",
+    "username": "Admin",
+    "password": "123456",
+    "permission": "Admin",
+    "fixed": true,
+    "remarks": "",
+    "create_date": 1711014986763,
+    "last_modify_date": 1711014986763
+  }
+]

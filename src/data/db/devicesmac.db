@@ -1,0 +1,108 @@
+[
+  {
+    "uuid": "1a449024-ac74-4b2e-8824-f0a349565346",
+    "serial": 1,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "1d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "環控設備-01",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "A",
+    "areaId": "A01",
+    "locationId": "L01",
+    "camera": [
+      "001",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R0",
+        "state": "0>1",
+        "light": "R",
+        "note": "Fault"
+      },
+      {
+        "pin": "R1",
+        "state": "0>1",
+        "light": "G",
+        "note": "Running"
+      }
+    ],
+    "created_time": 1711691464737,
+    "updated_time": 1712044646523
+  },
+
+  {
+    "uuid": "5a449024-ac74-4b2e-8824-f0a349565346",
+    "serial": 1,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "5d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "環控設備-02",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "A",
+    "areaId": "A01",
+    "locationId": "L01",
+    "camera": [
+      "001",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R8",
+        "state": "0>1",
+        "light": "R",
+        "note": "Fault"
+      },
+      {
+        "pin": "R9",
+        "state": "0>1",
+        "light": "G",
+        "note": "Running"
+      }
+    ],
+    "created_time": 1711691464737,
+    "updated_time": 1712044646523
+  },
+  {
+    "uuid": "7a449024-ac74-4b2e-8824-f0a349565346",
+    "serial": 1,
+    "gateId": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "deviceId": "7d54394b-09e0-4ebb-9f35-a69f5c315d4a",
+    "name": "環控設備-02",
+    "model": "SEN1101TH",
+    "typeId": "mac",
+    "protocol": "modbus",
+    "group": "A",
+    "areaId": "A01",
+    "locationId": "L01",
+    "camera": [
+      "001",
+      "",
+      "",
+      ""
+    ],
+    "signal": [
+      {
+        "pin": "R12",
+        "state": "0>1",
+        "light": "R",
+        "note": "Fault"
+      },
+      {
+        "pin": "R13",
+        "state": "0>1",
+        "light": "G",
+        "note": "Running"
+      }
+    ],
+    "created_time": 1711691464737,
+    "updated_time": 1712044646523
+  }
+]

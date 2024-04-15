@@ -1,0 +1,928 @@
+[
+  {
+    "uuid": "16be1fab-548c-4997-8c84-3d1df55d1122",
+    "name": "asdfsdf",
+    "actionType": "line",
+    "enable": true,
+    "targetType": "item",
+    "targetList": [
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a"
+    ],
+    "remark": "",
+    "notify": {
+      "token": "111",
+      "lang": "en",
+      "note": "",
+      "dataList": {}
+    },
+    "condition": [
+      {
+        "id": "1712561305314",
+        "object": "",
+        "type": "machinery",
+        "match": "any",
+        "param": "R",
+        "opt": "=",
+        "val": "0"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    "created_time": 1712561315369,
+    "updated_time": 1712568732584
+  },
+  {
+    "uuid": "40128bf4-2058-47f8-8246-53eb15dc5cb1",
+    "name": "asdfsdf",
+    "actionType": "line",
+    "enable": true,
+    "targetType": "item",
+    "targetList": [
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a"
+    ],
+    "remark": "123",
+    "notify": {
+      "token": "111",
+      "lang": "en",
+      "note": "",
+      "dataList": {}
+    },
+    "condition": [
+      {
+        "id": "1712561305314",
+        "object": "",
+        "type": "machinery",
+        "match": "any",
+        "param": "R",
+        "opt": "=",
+        "val": "0"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    "created_time": 1712565267537,
+    "updated_time": 1712568926590
+  },
+  {
+    "uuid": "e8e2cfd7-eacc-43c7-9e13-66ead593b870",
+    "name": "asdfsdf123",
+    "actionType": "line",
+    "enable": false,
+    "targetType": "item",
+    "targetList": [
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a"
+    ],
+    "remark": "123",
+    "notify": {
+      "token": "111",
+      "lang": "en",
+      "note": "123",
+      "dataList": {
+        "foreHead_temperature": true,
+        "is_high_temperature": true
+      }
+    },
+    "condition": [
+      {
+        "id": "1712561305314",
+        "object": "",
+        "type": "machinery",
+        "match": "any",
+        "param": "R",
+        "opt": "=",
+        "val": "0"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    "created_time": 1712565831050,
+    "updated_time": 1712814850648
+  },
+  {
+    "uuid": "f1a28473-f953-43d0-b978-6248ba15ec7c",
+    "name": "asdfsdf",
+    "actionType": "io",
+    "enable": false,
+    "targetType": "group",
+    "targetList": [
+      "40827bc9-c921-4d0a-8a7f-a8eb382ad716",
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597",
+      "fa55b071-eb54-5daa-bfb4-10eae832465a",
+      "cb7b1dbd-8756-5e3a-bf37-048604d2c2eb",
+      "aff80331-e004-55fa-be5e-6fc03b5f23b2",
+      "101b9289-8c31-506a-8154-369718445cda",
+      "58ad0acd-d9d9-5304-ab67-069f2dc55931",
+      "e6423047-fa60-4987-876e-b238e009375e",
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a",
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597",
+      "fa55b071-eb54-5daa-bfb4-10eae832465a",
+      "cb7b1dbd-8756-5e3a-bf37-048604d2c2eb",
+      "aff80331-e004-55fa-be5e-6fc03b5f23b2",
+      "101b9289-8c31-506a-8154-369718445cda",
+      "58ad0acd-d9d9-5304-ab67-069f2dc55931",
+      "e6423047-fa60-4987-876e-b238e009375e",
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a",
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597",
+      "fa55b071-eb54-5daa-bfb4-10eae832465a",
+      "cb7b1dbd-8756-5e3a-bf37-048604d2c2eb",
+      "aff80331-e004-55fa-be5e-6fc03b5f23b2",
+      "101b9289-8c31-506a-8154-369718445cda",
+      "58ad0acd-d9d9-5304-ab67-069f2dc55931",
+      "e6423047-fa60-4987-876e-b238e009375e"
+    ],
+    "remark": "",
+    "notify": {
+      "brand": "",
+      "model": "",
+      "host": "",
+      "port": 0,
+      "user": "",
+      "pass": "",
+      "iopoint": [
+        {
+          "no": 1,
+          "enable": false,
+          "default": false,
+          "trigger": true,
+          "delay": 10
+        },
+        {
+          "no": 2,
+          "enable": false,
+          "default": false,
+          "trigger": false,
+          "delay": 3
+        }
+      ]
+    },
+    "condition": [
+      {
+        "id": "1712814546313",
+        "object": "",
+        "type": "env",
+        "match": "every",
+        "param": "T",
+        "opt": ">=",
+        "val": "1"
+      },
+      {
+        "id": "1712814748029",
+        "object": "",
+        "type": "mac",
+        "match": "any",
+        "param": "R",
+        "opt": "=",
+        "val": "0"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 1,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 2,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 7,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    "created_time": 1712814840088,
+    "updated_time": 1712815014610
+  },
+  {
+    "uuid": "83f394cc-64ab-465b-bf4b-eea2c6c5814a",
+    "name": "asdfsdf - Copy",
+    "actionType": "http",
+    "enable": false,
+    "targetType": "group",
+    "targetList": [
+      "40827bc9-c921-4d0a-8a7f-a8eb382ad716"
+    ],
+    "remark": "",
+    "notify": {
+      "https": false,
+      "user": "",
+      "pass": "",
+      "dataType": "json",
+      "method": "GET",
+      "note": "",
+      "url": "",
+      "customData": ""
+    },
+    "condition": [
+      {
+        "id": "1712814546313",
+        "object": "",
+        "type": "env",
+        "match": "every",
+        "param": "T",
+        "opt": ">=",
+        "val": "1"
+      },
+      {
+        "id": "1712814748029",
+        "object": "",
+        "type": "mac",
+        "match": "any",
+        "param": "R",
+        "opt": "=",
+        "val": "0"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 1,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 2,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "dayOfWeek": 7,
+          "hoursList": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    "created_time": 1712814846543,
+    "updated_time": 1712814846543
+  },
+  {
+    "uuid": "27093605-c1cd-4b4d-bca5-2894f29c8f34",
+    "name": "asdfsdf",
+    "actionType": "http",
+    "enable": false,
+    "targetType": "group",
+    "targetList": [
+      "75482453-0893-4cb8-9378-58f889f5c78b"
+    ],
+    "remark": "",
+    "notify": {
+      "https": false,
+      "user": "",
+      "pass": "",
+      "dataType": "json",
+      "method": "GET",
+      "note": "",
+      "url": "",
+      "customData": ""
+    },
+    "condition": [
+      {
+        "id": "1712893992073",
+        "object": "",
+        "type": "ele",
+        "match": "any",
+        "param": "R",
+        "opt": "=",
+        "val": "0"
+      }
+    ],
+    "specifyTime": {
+      "list": []
+    },
+    "weeklySchedule": {
+      "list": [
+        {
+          "dayOfWeek": 3,
+          "hoursList": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "dayOfWeek": 4,
+          "hoursList": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "dayOfWeek": 5,
+          "hoursList": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "dayOfWeek": 6,
+          "hoursList": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    "created_time": 1712893996631,
+    "updated_time": 1712893996631
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "uuid": "All Machinery",
+    "name": "All Machinery",
+    "list": [],
+    "created": 1712042279961,
+    "remark": "asfasdf",
+    "updated_time": 1712887149738
+  },
+  {
+    "uuid": "All Environmental",
+    "name": "All Environmental",
+    "list": [],
+    "created": 1712042279961,
+    "remark": ""
+  },
+  {
+    "uuid": "All ElectricMeter",
+    "name": "All ElectricMeter",
+    "list": [],
+    "created": 1712042279961,
+    "remark": ""
+  },
+  {
+    "uuid": "All AirCompressor",
+    "name": "All AirCompressor",
+    "list": [],
+    "created": 1712042279961,
+    "remark": ""
+  },
+  {
+    "uuid": "75482453-0893-4cb8-9378-58f889f5c78b",
+    "name": "asdfsdf123",
+    "list": [
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597"
+    ],
+    "remark": "",
+    "created_time": 1712112583958,
+    "updated_time": 1712113156380
+  },
+  {
+    "uuid": "a502117f-ac2f-4786-b34f-1f20208088db",
+    "name": "asdfsdf123 - Copy",
+    "list": [
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597",
+      "fa55b071-eb54-5daa-bfb4-10eae832465a",
+      "cb7b1dbd-8756-5e3a-bf37-048604d2c2eb",
+      "aff80331-e004-55fa-be5e-6fc03b5f23b2",
+      "101b9289-8c31-506a-8154-369718445cda",
+      "58ad0acd-d9d9-5304-ab67-069f2dc55931",
+      "e6423047-fa60-4987-876e-b238e009375e",
+      "aa449024-ac74-4b2e-8824-f0a349565346"
+    ],
+    "remark": "111",
+    "created_time": 1712113952094,
+    "updated_time": 1712113969644
+  },
+  {
+    "uuid": "40827bc9-c921-4d0a-8a7f-a8eb382ad716",
+    "name": "ด๚ธี",
+    "list": [
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597",
+      "fa55b071-eb54-5daa-bfb4-10eae832465a",
+      "cb7b1dbd-8756-5e3a-bf37-048604d2c2eb",
+      "aff80331-e004-55fa-be5e-6fc03b5f23b2",
+      "101b9289-8c31-506a-8154-369718445cda",
+      "58ad0acd-d9d9-5304-ab67-069f2dc55931",
+      "e6423047-fa60-4987-876e-b238e009375e",
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a"
+    ],
+    "remark": "",
+    "created_time": 1712743668250,
+    "updated_time": 1712743668250
+  },
+  {
+    "uuid": "18d13e32-566b-46e9-a53b-f0bf07a0df88",
+    "name": "fadfafd",
+    "list": [
+      "6d3b8ee2-12f5-5c6a-bc95-af11fd6a3597",
+      "fa55b071-eb54-5daa-bfb4-10eae832465a",
+      "cb7b1dbd-8756-5e3a-bf37-048604d2c2eb",
+      "aff80331-e004-55fa-be5e-6fc03b5f23b2",
+      "101b9289-8c31-506a-8154-369718445cda",
+      "58ad0acd-d9d9-5304-ab67-069f2dc55931",
+      "e6423047-fa60-4987-876e-b238e009375e",
+      "a3883358-6c35-47bf-ad55-eadc0bdc943a"
+    ],
+    "remark": "",
+    "created_time": 1712814382636,
+    "updated_time": 1712814382636
+  }
+]

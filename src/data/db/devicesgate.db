@@ -1,0 +1,13 @@
+[
+  {
+    "uuid": "1a443379-62cc-49aa-b80d-391f06718f16",
+    "name": "閘道器-001",
+    "model": "CTR3202",
+    "ip": "192.168.10.220",
+    "port": 1883,
+    "user": "fruser",
+    "pass": "dc4c6793fe914625936fa12bac0c649d",
+    "created_time": 1712042945861,
+    "updated_time": 1712044578908
+  }
+]
